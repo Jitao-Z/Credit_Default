@@ -6,3 +6,5 @@
 3. DecisionTree Classifier
 4. RandomForest Classifier
 5. Gradient boosted trees - LightGBM
+- Coding language: Python
+- Main used packages: Numpy, Pandas
